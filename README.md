@@ -15,7 +15,8 @@ Generate personalized interview questions, score candidate responses automatical
 [![License](https://img.shields.io/badge/License-MIT-FBBF24?style=flat-square)](LICENSE)
 
 <br/>
-[![alt text](C:\Users\shubh\talentscout-llama\image.png)]
+
+![TalentScout Screenshot](image.png)
 </div>
 
 ---
